@@ -38,3 +38,10 @@ src="https://www.facebook.com/tr?id=1006480110430765&ev=PageView&noscript=1"
 
   gtag('config', 'G-KNHQEL24ML');
 </script>
+
+<!-- Teleoceans Analytics -->
+<script
+    src="https://analytics.teleoceans-servers.cloud/api/script.js"
+    data-site-id="15"
+    defer
+></script>
